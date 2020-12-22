@@ -1,0 +1,27 @@
+n=input("Enter a NOUN")
+a=input("Enter an ADJECTIVE")
+food=input("Enter any FOOD")
+bp=input("Enter a BODY PART")
+n1=input("Enter a NOUN")
+v=input("Enter a VERB ending winth -ING")
+v1=input("Enter a VERB")
+c=input("Enter any COLOR")
+c1=input("Enter any COLOR")
+a1=input("Enter an ADJECTIVE")
+n2=input("Enter a NOUN")
+a2=input("Enter an ADJECTIVE")
+an=input("Enter any ANIMAL")
+a3=input("Enter an ADJECTIVE")
+an1=input("Enter any ANIMAL")
+v2=input("Enter a VERB")
+a4=input("Enter an ADJECTIVE")
+v3=input("Enter a VERB")
+n3=input("Enter a NOUN")
+
+print(f'''Our {n} are packed for a hike in the {a} Mountains! We are carrying
+      a picnic lunch with {food} on our {bp}, and I have a {n1} for {v} photos. 
+      We will {v1} past neadows filled with {c} and {c1} flowers, and pass a
+      {a1} waterfall that souinds like a {n2}. Many animals live in the mountains,
+      like the {a2} {an} and {a3} {an1}. Its fun to {v2} them but important to be safe
+      and keep a {a4} distance.The higher we {v3}, the smaller the wildfollower meadow 
+      and waterfall appear,We may even see {n3} on the ground from the last winter.''')
